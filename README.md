@@ -16,7 +16,7 @@ Simulate the **Haas Management Panel** and **HARRM system** directly in ChatGPTâ
 
 ## First-Time Setup
 
-1a.**EXPLAIN HAAS AND HAARM TO CHATGPT**
+1a. **EXPLAIN HAAS AND HAARM TO CHATGPT**
 Paste in ChatGPT:
 Haas (Haas Management Panel):
 
