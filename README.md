@@ -1,7 +1,7 @@
 # HAAS AI for ChatGPT
 # Quick Start: Haas & HARRM Simulation on ChatGPT
 
-**Developed by Keith Industries**
+**Developed by Keith Industries LTD. All rights reserved. Keith Industries 2024-2025 TM**
 
 Simulate the **Haas Management Panel** and **HARRM system** directly in ChatGPT—no installation needed.
 
